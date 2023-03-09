@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MagicDeckOrganizer</string>
+    <string name="decks_fragment_empty_list">No decks to list</string>
+    <string name="card_image_content_description">Card image</string>
+</resources>
